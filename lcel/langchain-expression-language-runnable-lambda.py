@@ -1,11 +1,5 @@
-from datetime import datetime
-
 from dotenv import load_dotenv
 from langchain_teddynote import logging
-from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnablePassthrough, RunnableLambda
-from langchain_core.prompts import PromptTemplate
-from langchain_openai import ChatOpenAI
 
 load_dotenv()
 logging.langsmith("langchain-expression-language-runnable-parallel")

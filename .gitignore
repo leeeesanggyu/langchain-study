@@ -1,3 +1,4 @@
 .env
 *.xml
 /.idea
+/vector_store/chroma_db

@@ -1,0 +1,20 @@
+stock market: 주식이 거래되는 공개 시장
+interest rate: 대출이나 예금 등에 적용되는 이자율
+financial statement: 기업의 재무 상태를 보여주는 문서
+balance sheet: 특정 시점의 자산, 부채, 자본을 나타내는 재무제표
+income statement: 일정 기간 동안의 수익과 비용을 정리한 문서
+return on investment: 투자에 대한 수익률
+dividend yield: 주식의 배당 수익률
+capital gains: 자산 매각을 통해 얻는 이익
+hedge fund: 고수익을 추구하는 사모 펀드
+mutual fund: 투자자들의 자금을 모아 운영되는 펀드
+bond yield: 채권 투자로 얻을 수 있는 수익률
+credit rating: 기업이나 국가의 신용도를 평가한 등급
+liquidity ratio: 기업의 단기 채무 상환 능력을 나타내는 지표
+market capitalization: 주식의 총 발행량 × 주가로 계산한 기업가치
+equity: 기업의 자본, 혹은 주주의 소유 지분
+debt-to-equity ratio: 부채 대비 자본의 비율
+asset management: 자산을 효율적으로 운영·관리하는 행위
+portfolio diversification: 투자 위험을 줄이기 위한 분산 투자 전략
+risk assessment: 금융 위험 요소를 평가하는 과정
+macroeconomic indicators: 경제 전반의 상태를 나타내는 주요 지표

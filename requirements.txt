@@ -297,7 +297,7 @@ pywin32==310 ; sys_platform == "win32" and platform_python_implementation != "Py
 pywinpty==2.0.15 ; python_version >= "3.11" and python_version < "3.12" and os_name == "nt"
 pyyaml==6.0.2 ; python_version >= "3.11" and python_version < "3.12"
 pyzmq==26.3.0 ; python_version >= "3.11" and python_version < "3.12"
-ragas==0.2.14 ; python_version >= "3.11" and python_version < "3.12"
+ragas==0.1.19 ; python_version >= "3.11" and python_version < "3.12"
 rank-bm25==0.2.2 ; python_version >= "3.11" and python_version < "3.12"
 rapidfuzz==3.12.2 ; python_version >= "3.11" and python_version < "3.12"
 rapidocr-onnxruntime==1.4.4 ; python_version >= "3.11" and python_version < "3.12"
